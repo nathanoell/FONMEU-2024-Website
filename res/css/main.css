@@ -191,7 +191,7 @@ form label.error {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(210, 210, 210, .8);
+  background: rgba(187, 183, 183, 0.8);
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .5);
   -moz-box-shadow: inset 0 0 6px rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 6px rgba(0, 0, 0, .5)
@@ -1892,9 +1892,10 @@ h6 {
 
 .navbar .navbar-brand img {
   display: inline-block;
-  max-height: 43px;
+  height: auto;
+  max-width: 125px;
   position: absolute;
-  top: 18px;
+  top: 5px;
   left: auto
 }
 
@@ -1992,6 +1993,7 @@ h6 {
 .navbar.navbar-white.shrink .navbar-brand img.logo-navbar-dark {
   opacity: 0
 }
+
 
 .navbar.navbar-white.shrink .navbar-brand img.logo-navbar-white {
   opacity: 1
@@ -4767,7 +4769,7 @@ section.pull-up {
     line-height: 80px!important;
     padding: 0 15px
   }
-  .navbar.shrink .container {
+  k .container {
     height: 60px
   }
   .navbar.shrink .navbar-brand {
@@ -4775,8 +4777,8 @@ section.pull-up {
     line-height: 60px!important
   }
   .navbar.shrink .navbar-brand img {
-    max-height: 38px;
-    top: 9px
+    max-height: 50px;
+    top: 5px
   }
   .navbar.shrink .navbar-nav>li {
     line-height: 60px!important

@@ -3,16 +3,16 @@
 */
 
 .title-underline-base-color {
-    border-color: #F2921D;
+    border-color: #2b1df2;
 }
 .title-underline-thick-base-color {
-    border-color: #F2921D;
+    border-color: #1d44f2;
 }
 .title-sideline-base-color:before {
-    background-color: #F2921D;
+    background-color: #1cbbe2;
 }
 .title-strikethrough-base-color:before {
-    background-color: #F2921D;
+    background-color: #1d44f2;
 }
 
 

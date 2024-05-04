@@ -662,6 +662,7 @@
 }
 .footer-logo img {
   width: 120px;
+  height: auto;
 }
 .footer .disclaimer {
   padding-bottom: 25px;
