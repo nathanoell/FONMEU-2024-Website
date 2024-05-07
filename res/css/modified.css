@@ -22,3 +22,16 @@
     align-content: center;
     text-align: center;
 }
+
+.subtitle {
+    opacity: 0;
+    transition: opacity 1s ease; 
+  }
+  
+.title-anim:hover + .subtitle{
+    opacity: 1; 
+}
+
+.subtitle:hover {
+    opacity: 1;
+}
