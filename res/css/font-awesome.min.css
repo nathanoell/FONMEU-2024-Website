@@ -245,3 +245,7 @@
 .fa-angle-up:before {
     content: "\f106"
 }
+
+.fa-map-marker:before {
+    content: "\f041"
+}
