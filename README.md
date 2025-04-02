@@ -1,7 +1,7 @@
 # FONMEU-website
 
-- View website [here](https://nathanoell.github.io)
-- Github repo for Fonsorbes MEU's website
+- View website [here](https://elderbouin.github.io/FONMEU-2024-Website/)
+- The Website of 2025's conference is on the account of @fonmun31 : https://github.com/fonmun31/fonmun
 - Highly inspired by : [Invicta MUN website](https://github.com/SujanPrasadPandey/Invicta-MUN)
 
 
